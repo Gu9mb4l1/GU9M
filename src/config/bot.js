@@ -447,7 +447,7 @@ export const botConfig = {
 
     // Community engagement systems.
     tickets: false,
-    giveaways: false,
+    giveaways: true,
     birthday: false,
     counter: false,
 
@@ -462,7 +462,7 @@ export const botConfig = {
     tools: true,
     utility: true,
     community: true,
-    fun: true,
+    fun: false,
   },
 };
 
